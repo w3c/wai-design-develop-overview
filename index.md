@@ -34,20 +34,22 @@ This page links to tips and tutorials for writing, designing, and developing for
 
 These tips introduce some basic considerations for making your website more accessible to people with disabilities. They provide links to additional guidance.
 
-[Writing for Web Accessibility]({{ " /tips/writing/ " | relative_url }}) 
+[Writing for Web Accessibility]({{ "/tips/writing/ " | relative_url }}) 
 : Tips for writing and presenting content.
+
 [Designing for Web Accessibility]({{ "/tips/designing/" | relative_url }}) 
 : Tips for user interface and visual design.
+
 [Developing for Web Accessibility]({{ "/tips/developing/" | relative_url }}) 
 : Tips for markup and coding.
 
 ## Web Accessibility Tutorials {#tips}
 
-The tutorials provide guidance on how to create components of websites that meet Web Content Accessibility Guidelines (WCAG) 2, that are more accessible to people with disabilities, and that provide a better user experience for everyone.
+The tutorials provide guidance on how to create components that meet Web Content Accessibility Guidelines (WCAG) 2, that are more accessible to people with disabilities, and that provide a better user experience for everyone.
 
-* [Page Structure Tutorial]( https://www.w3.org/WAI/tutorials/page-structure/)
-* [Menus Tutorial]( https://www.w3.org/WAI/tutorials/menus/)
-* [Images Tutorial]( https://www.w3.org/WAI/tutorials/images/)
-* [Tables Tutorial]( https://www.w3.org/WAI/tutorials/tables/)
-* [Forms Tutorial]( https://www.w3.org/WAI/tutorials/forms/)
-* [Carousels Tutorial]( https://www.w3.org/WAI/tutorials/carousels/)
+* **[Page Structure Tutorial]( https://www.w3.org/WAI/tutorials/page-structure/)**
+* **[Menus Tutorial]( https://www.w3.org/WAI/tutorials/menus/)**
+* **[Images Tutorial]( https://www.w3.org/WAI/tutorials/images/)**
+* **[Tables Tutorial]( https://www.w3.org/WAI/tutorials/tables/)**
+* **[Forms Tutorial]( https://www.w3.org/WAI/tutorials/forms/)**
+* **[Carousels Tutorial]( https://www.w3.org/WAI/tutorials/carousels/)**
