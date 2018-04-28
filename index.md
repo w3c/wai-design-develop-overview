@@ -1,17 +1,19 @@
 ---
-title: "Page Title"
+title: "Design and Develop Overview"
 permalink: /design-develop/
 github:
   repository: wai-design-develop-overview
 footer: > # Text in footer in HTML
-  <p> This is the text in the footer </p>
+  <p><strong>Date:</strong> Updated 27 April 2018.</p>
+  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
 
 {::nomarkdown}
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod architecto excepturi incidunt, odit modi quidem deserunt doloremque molestias saepe. Iste dolor non repellendus laudantium! Nihil velit mollitia voluptatem ullam libero.
+This page links to tips and tutorials for writing, designing, and developing for accessibility.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -28,35 +30,24 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod architecto except
 {% include toc.html type="end" %}
 {:/}
 
-## Heading Level 2
+## Tips for Getting Started with Web Accessibility {#tips}
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione placeat ab laboriosam. **Assumenda aut, praesentium (bold)** commodi _nesciunt natus (italic)_ ipsum fugiat [voluptates nisi ipsam voluptas (Link)](https://example.com) recusandae, a. [Sunt eos veritatis numquam (Internal link)]({{ "/permalink/to/page/" | relative_url }})!
+These tips introduce some basic considerations for making your website more accessible to people with disabilities. They provide links to additional guidance.
 
-### Heading Level 3
+[Writing for Web Accessibility]({{ " /tips/writing/ " | relative_url }}) 
+: Tips for writing and presenting content.
+[Designing for Web Accessibility]({{ "/tips/designing/" | relative_url }}) 
+: Tips for user interface and visual design.
+[Developing for Web Accessibility]({{ "/tips/developing/" | relative_url }}) 
+: Tips for markup and coding.
 
-1. This is 
-2. a nice
-3. ordered
-4. list.
+## Web Accessibility Tutorials {#tips}
 
-#### Heading Level 4
+The tutorials provide guidance on how to create components of websites that meet Web Content Accessibility Guidelines (WCAG) 2, that are more accessible to people with disabilities, and that provide a better user experience for everyone.
 
-
-* And this is a
-* bullet list
-
-- You can use asterisks
-- or dashes. Whatever floats
-- your boat :-)
-
-##### Heading Level 5
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione placeat ab laboriosam. Assumenda aut, praesentium commodi nesciunt natus ipsum fugiat voluptates nisi ipsam voluptas recusandae, a. Sunt eos veritatis numquam!
-
-## Heading Level 2
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione placeat ab laboriosam. Assumenda aut, praesentium commodi nesciunt natus ipsum fugiat voluptates nisi ipsam voluptas recusandae, a. Sunt eos veritatis numquam!
-
-### Heading Level 3
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione placeat ab laboriosam. Assumenda aut, praesentium commodi nesciunt natus ipsum fugiat voluptates nisi ipsam voluptas recusandae, a. Sunt eos veritatis numquam!
+* [Page Structure Tutorial]( https://www.w3.org/WAI/tutorials/page-structure/)
+* [Menus Tutorial]( https://www.w3.org/WAI/tutorials/menus/)
+* [Images Tutorial]( https://www.w3.org/WAI/tutorials/images/)
+* [Tables Tutorial]( https://www.w3.org/WAI/tutorials/tables/)
+* [Forms Tutorial]( https://www.w3.org/WAI/tutorials/forms/)
+* [Carousels Tutorial]( https://www.w3.org/WAI/tutorials/carousels/)
