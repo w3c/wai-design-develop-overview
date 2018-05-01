@@ -2,7 +2,7 @@
 title: "Design and Develop Overview"
 permalink: /design-develop/
 github:
-  repository: wai-design-develop-overview
+  repository: w3c/wai-design-develop-overview
 footer: > # Text in footer in HTML
   <p><strong>Date:</strong> Updated 27 April 2018.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
