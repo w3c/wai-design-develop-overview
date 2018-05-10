@@ -42,6 +42,7 @@ These tips introduce some basic considerations for making your website more acce
 
 [Developing for Web Accessibility]({{ "/tips/developing/" | relative_url }}) 
 : Tips for markup and coding.
+{:.paragraph-like}
 
 ## Web Accessibility Tutorials {#tips}
 
