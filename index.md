@@ -4,7 +4,7 @@ permalink: /design-develop/
 github:
   repository: w3c/wai-design-develop-overview
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 27 April 2018.</p>
+  <p><strong>Date:</strong> Updated 27 September 2018.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
@@ -54,3 +54,7 @@ The tutorials provide guidance on how to create components that meet Web Content
 * **[Tables Tutorial]( https://www.w3.org/WAI/tutorials/tables/)**
 * **[Forms Tutorial]( https://www.w3.org/WAI/tutorials/forms/)**
 * **[Carousels Tutorial]( https://www.w3.org/WAI/tutorials/carousels/)**
+
+## WCAG Quick Reference
+
+* **[How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/)** is a customizable reference to Web Content Accessibility Guidelines (WCAG) requirements ("success criteria") and techniques.
