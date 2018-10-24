@@ -44,7 +44,7 @@ These tips introduce some basic considerations for making your website more acce
 : Tips for markup and coding.
 {:.paragraph-like}
 
-## Web Accessibility Tutorials {#tips}
+## Web Accessibility Tutorials {#tutorials}
 
 The tutorials provide guidance on how to create components that meet Web Content Accessibility Guidelines (WCAG) 2, that are more accessible to people with disabilities, and that provide a better user experience for everyone.
 
