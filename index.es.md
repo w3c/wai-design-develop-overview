@@ -27,7 +27,7 @@ ref: /design-develop/
 {% include box.html type="start" title="Resumen" class="" %}
 {:/}
 
-Tips and tutorials for writing, designing, and developing for accessibility.
+Trucos y tutoriales para escribir, diseñar y desarrollar para la accesibilidad.
 
 {::nomarkdown}
 {% include box.html type="end" %}
