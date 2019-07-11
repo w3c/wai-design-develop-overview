@@ -17,7 +17,7 @@ github:
 
 feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
-  <p><strong>Fecha:</strong> Actualizado el 27 de september de 2018.</p>
+  <p><strong>Fecha:</strong> Actualizado el 27 de septiembre del 2018.</p>
   <p><strong>Editora:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Desarrollado con la colaboración del Grupo de Trabajo de Educación y Difusión (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /design-develop/
@@ -34,7 +34,7 @@ Trucos y tutoriales para escribir, diseñar y desarrollar para la accesibilidad.
 {:/}
 
 {::nomarkdown}
-{% include toc.html type="start" title="Page Contents" %}
+{% include toc.html type="start" title="Índice de contenidos" %}
 {:/}
 
 - This will be replaced by an automatically generated TOC when using Markdown formatting.
@@ -71,4 +71,4 @@ Los tutoriales proporcionan orientación para crear componentes que cumplen con 
 
 ## Guía rápida de WCGA
 
-* **[Cómo seguir las pautas WCAG 2 (Guía rápida)](https://www.w3.org/WAI/WCAG21/quickref/)** es una guía personalizable y de referencia a las Pautas de Accesibilidad para el Contenido Web (WCAG), sus requisitos (criterios de conformidad) y técnicas..
+* **[Cómo seguir las pautas WCAG 2 (Guía rápida)](https://www.w3.org/WAI/WCAG21/quickref/)** es una guía personalizable y de referencia a las Pautas de Accesibilidad para el Contenido Web (WCAG), sus requisitos (criterios de conformidad) y técnicas.
