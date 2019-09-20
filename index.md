@@ -5,7 +5,7 @@ title: "Design and Develop Overview"
 nav_title: "Overview"
 
 lang: en
-last_updated: 2018-09-27
+last_updated: 2019-09-20
 permalink: /design-develop/
 
 github:
@@ -15,7 +15,7 @@ github:
 feedbackmail: wai@w3.org
 class: tight-page
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 27 September 2018.</p>
+  <p><strong>Date:</strong> Updated 20 September 2019.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /design-develop/
@@ -25,7 +25,7 @@ ref: /design-develop/
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-Tips and tutorials for writing, designing, and developing for accessibility.
+Guidance for writing, designing, and developing for accessibility.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -56,9 +56,15 @@ These tips introduce some basic considerations for making your website more acce
 : Tips for markup and coding.
 {:.paragraph-like}
 
+## Media Resource for Audio and Video
+
+[Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/)
+: Helps you understand and create captions/subtitles, audio description of visual information, descriptive transcripts, and sign language for media. Includes guidance for creating new videos, and on media player accessibility. Introduces user experiences and benefits to organizations.
+{:.paragraph-like}
+
 ## Web Accessibility Tutorials {#tutorials}
 
-The tutorials provide guidance on how to create components that meet Web Content Accessibility Guidelines (WCAG) 2, that are more accessible to people with disabilities, and that provide a better user experience for everyone.
+The tutorials provide guidance on how to create components that meet Web Content Accessibility Guidelines (WCAG), that are more accessible to people with disabilities, and that provide a better user experience for everyone.
 
 * **[Page Structure Tutorial](https://www.w3.org/WAI/tutorials/page-structure/)**
 * **[Menus Tutorial](https://www.w3.org/WAI/tutorials/menus/)**
@@ -67,6 +73,14 @@ The tutorials provide guidance on how to create components that meet Web Content
 * **[Forms Tutorial](https://www.w3.org/WAI/tutorials/forms/)**
 * **[Carousels Tutorial](https://www.w3.org/WAI/tutorials/carousels/)**
 
-## WCAG Quick Reference
+## Other Design and Development Resources
 
-* **[How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/)** is a customizable reference to Web Content Accessibility Guidelines (WCAG) requirements ("success criteria") and techniques.
+[How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/)
+: A customizable reference to Web Content Accessibility Guidelines (WCAG) requirements ("success criteria") and techniques.
+
+[WAI-ARIA Authoring Practices](https://www.w3.org/TR/wai-aria-practices/)
+: Provides approaches, advice, and examples to help web application developers make widgets, navigation, and behaviors accessible using WAI-ARIA (Accessible Rich Internet Applications) roles, states, and properties.
+
+[Developing Websites for Older People: How WCAG Applies](https://www.w3.org/WAI/older-users/developing/)
+: Lists specific WCAG success criteria and techniques that particularly improve accessibility and usability for older people.
+{:.paragraph-like}
