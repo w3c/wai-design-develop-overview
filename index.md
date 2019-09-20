@@ -25,7 +25,7 @@ ref: /design-develop/
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-Tips and tutorials for writing, designing, and developing for accessibility.
+Guidance for writing, designing, and developing for accessibility.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -64,7 +64,7 @@ These tips introduce some basic considerations for making your website more acce
 
 ## Web Accessibility Tutorials {#tutorials}
 
-The tutorials provide guidance on how to create components that meet Web Content Accessibility Guidelines (WCAG) 2, that are more accessible to people with disabilities, and that provide a better user experience for everyone.
+The tutorials provide guidance on how to create components that meet Web Content Accessibility Guidelines (WCAG), that are more accessible to people with disabilities, and that provide a better user experience for everyone.
 
 * **[Page Structure Tutorial](https://www.w3.org/WAI/tutorials/page-structure/)**
 * **[Menus Tutorial](https://www.w3.org/WAI/tutorials/menus/)**
@@ -81,6 +81,6 @@ The tutorials provide guidance on how to create components that meet Web Content
 [WAI-ARIA Authoring Practices](https://www.w3.org/TR/wai-aria-practices/)
 : Provides approaches, advice, and examples to help web application developers make widgets, navigation, and behaviors accessible using WAI-ARIA (Accessible Rich Internet Applications) roles, states, and properties.
 
-[Developing Websites for Older People: How Web Content Accessibility Guidelines (WCAG) Applies](https://www.w3.org/WAI/older-users/developing/)
+[Developing Websites for Older People: How WCAG Applies](https://www.w3.org/WAI/older-users/developing/)
 : Lists specific WCAG success criteria and techniques that particularly improve accessibility and usability for older people.
 {:.paragraph-like}
