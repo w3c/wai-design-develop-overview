@@ -31,16 +31,8 @@ Guidance for writing, designing, and developing for accessibility.
 {% include box.html type="end" %}
 {:/}
 
-{::nomarkdown}
-{% include toc.html type="start" title="Page Contents" %}
-{:/}
 
-- This will be replaced by an automatically generated TOC when using Markdown formatting.
-{:toc}
-
-{::nomarkdown}
-{% include toc.html type="end" %}
-{:/}
+{% include toc.html %}
 
 ## Tips for Getting Started with Web Accessibility {#tips}
 
