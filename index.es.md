@@ -15,6 +15,7 @@ github:
   repository: w3c/wai-design-develop-overview
   path: "index.es.md"
 
+class: tight-page
 feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
   <p><strong>Fecha:</strong> Actualizado el 27 de septiembre del 2018.</p>
