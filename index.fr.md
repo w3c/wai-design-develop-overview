@@ -20,9 +20,9 @@ github:
 feedbackmail: wai@w3.org
 class: tight-page
 footer: > # Text in footer in HTML
-  <p><strong>Date :</strong> Mise à jour 20 septembre 2019.</p>
-  <p><strong>Auteur :</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-  <p>Développé par le <em>groupe Éducation et Promotion</em> (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+  <p><strong>Date :</strong> Mise à jour : 20 septembre 2019.</p>
+  <p><strong>Rédactrice :</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p>Développé par le <em>Groupe de travail Éducation et Promotion</em> (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /design-develop/
 ---
 
