@@ -10,9 +10,9 @@ permalink: /design-develop/fr
 
 translators:
 - name: "Sofia Ahmed"
+- name: "Rémi Bétin"
 contributors:
 - name: "Sandra Velarde Gonzalez (ETNIC)"
-- name: "Rémi Bétin"
 
 github:
   repository: w3c/wai-design-develop-overview

@@ -13,7 +13,7 @@ translators:
 
 github:
   repository: w3c/wai-design-develop-overview
-  path: "index.es.md"
+  path: "content/index.es.md"
 
 class: tight-page
 feedbackmail: wai@w3.org
