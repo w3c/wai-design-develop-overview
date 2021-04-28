@@ -61,7 +61,7 @@ Estos trucos presentan algunas consideraciones básicas a fin de hacer su sitio 
 
 ## Recursos para audio y vídeo
 
-[Cómo hacer los medios de audio y vídeo accesibles](https://www.w3.org/WAI/media/av/)
+[Cómo hacer los medios de audio y vídeo accesibles](/media/av/)
 
 : Le ayuda a aprender y a crear subtítulos, audiodescripción para la información visual, transcripciones descriptivas y lengua de signos para los medios. Incluye orientación para crear vídeos nuevos y sobre la accesibilidad de los reproductores multimedia. Presenta experiencias de usuario y beneficios para las organizaciones.
 {:.paragraph-like}
@@ -70,21 +70,21 @@ Estos trucos presentan algunas consideraciones básicas a fin de hacer su sitio 
 
 Los tutoriales proporcionan orientación para crear componentes que cumplen con las Pautas de Accesibilidad para el Contenido Web (WCAG), los cuales son más accesibles para las personas con discapacidad y ofrecen una experiencia de usuario mejorada para todo el mundo.
 
-* **[Tutorial de estructura de la página](https://www.w3.org/WAI/tutorials/page-structure/)**
-* **[Tutorial de menús](https://www.w3.org/WAI/tutorials/menus/)**
-* **[Tutorial de imágenes](https://www.w3.org/WAI/tutorials/images/)**
-* **[Tutorial de tablas](https://www.w3.org/WAI/tutorials/tables/)**
-* **[Tutorial de formularios](https://www.w3.org/WAI/tutorials/forms/)**
-* **[Tutorial de carruseles](https://www.w3.org/WAI/tutorials/carousels/)**
+* **[Tutorial de estructura de la página](/tutorials/page-structure/)**
+* **[Tutorial de menús](/tutorials/menus/)**
+* **[Tutorial de imágenes](/tutorials/images/)**
+* **[Tutorial de tablas](/tutorials/tables/)**
+* **[Tutorial de formularios](/tutorials/forms/)**
+* **[Tutorial de carruseles](/tutorials/carousels/)**
 
 ## Otros recursos de diseño y desarrollo
 
-[Cómo seguir las pautas WCAG 2 (Guía rápida)](https://www.w3.org/WAI/WCAG21/quickref/)
+[Cómo seguir las pautas WCAG 2 (Guía rápida)](/WCAG21/quickref/)
 : Guía personalizable y de referencia a las Pautas de Accesibilidad para el Contenido Web (WCAG), sus requisitos (criterios de conformidad) y técnicas.
 
 [Prácticas para el autor de WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/)
 : Proporciona aproximaciones, consejos y ejemplos para ayudar a los desarrolladores de aplicaciones web a hacer widgets, navegación y comportamientos accesibles a través de los roles, estados y propiedades de WAI-ARIA (Accessible Rich Internet Applications).
 
-[Desarrollando sitios web para personas mayores: cómo se aplica WCAG](https://www.w3.org/WAI/older-users/developing/)
+[Desarrollando sitios web para personas mayores: cómo se aplica WCAG](/older-users/developing/)
 : Enumera casos de éxito y técnicas WCAG específicos que mejoran la accesibilidad y la usabilidad para las personas mayores particularmente.
 {:.paragraph-like}
