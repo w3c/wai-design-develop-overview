@@ -10,7 +10,7 @@ permalink: /design-develop/
 
 github:
   repository: w3c/wai-design-develop-overview
-  path: "index.md"
+  path: "content/index.md"
 
 feedbackmail: wai@w3.org
 class: tight-page
