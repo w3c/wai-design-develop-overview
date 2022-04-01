@@ -5,7 +5,7 @@ title: "Design and Develop Overview"
 nav_title: "Overview"
 
 lang: en
-last_updated: 2019-09-20
+last_updated: 2022-04-01
 permalink: /design-develop/
 
 github:
@@ -15,7 +15,7 @@ github:
 feedbackmail: wai@w3.org
 class: tight-page
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 20 September 2019.</p>
+  <p><strong>Date:</strong> Updated 1 April 2022.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /design-develop/
@@ -72,6 +72,9 @@ The tutorials provide guidance on how to create components that meet Web Content
 
 [WAI-ARIA Authoring Practices](https://www.w3.org/TR/wai-aria-practices/)
 : Provides approaches, advice, and examples to help web application developers make widgets, navigation, and behaviors accessible using WAI-ARIA (Accessible Rich Internet Applications) roles, states, and properties.
+
+[Cognitive Accessibility Guidance](/WCAG2/supplemental/#cognitiveaccessibilityguidance)
+: Provides objecties and design patterns to improve accessibility for people with cognitive and learning disabilitie. Introduced in [About Supplemental Guidance](/WCAG2/supplemental/about/).
 
 [Developing Websites for Older People: How WCAG Applies](https://www.w3.org/WAI/older-users/developing/)
 : Lists specific WCAG success criteria and techniques that particularly improve accessibility and usability for older people.
