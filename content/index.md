@@ -12,7 +12,7 @@ github:
   repository: w3c/wai-design-develop-overview
   path: "content/index.md"
   
-changelog: /fundamentals/changelog/
+changelog: /design-develop/changelog/
 
 feedbackmail: wai@w3.org
 class: tight-page
