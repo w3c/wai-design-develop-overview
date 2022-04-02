@@ -76,7 +76,7 @@ The tutorials provide guidance on how to create components that meet Web Content
 : Provides approaches, advice, and examples to help web application developers make widgets, navigation, and behaviors accessible using WAI-ARIA (Accessible Rich Internet Applications) roles, states, and properties.
 
 [Cognitive Accessibility Guidance](/WCAG2/supplemental/#cognitiveaccessibilityguidance)
-: Provides objecties and design patterns to improve accessibility for people with cognitive and learning disabilitie. Introduced in [About Supplemental Guidance](/WCAG2/supplemental/about/).
+: Provides objectives and design patterns to improve accessibility for people with cognitive and learning disabilities. Introduced in [About Supplemental Guidance](/WCAG2/supplemental/about/).
 
 [Developing Websites for Older People: How WCAG Applies](https://www.w3.org/WAI/older-users/developing/)
 : Lists specific WCAG success criteria and techniques that particularly improve accessibility and usability for older people.
