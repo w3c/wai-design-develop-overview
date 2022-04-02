@@ -45,10 +45,10 @@ For others, **particularly significant or substantive changes are summarized aft
 * The other dates after `footer >` should match the English version.
 * From the GitHub pull request, after a couple of minutes, you can get a preview of your rendered page by selecting the "Details" link after "netlify/wai-.../deploy-preview — Deploy preview ready!". Then select your language at the top.
 
-## 6 Jan 2021 Significant
+## 1 April 2022 Significant
 **Significant: Added link to [Cognitive Accessibility Guidance](/WCAG2/supplemental/#cognitiveaccessibilityguidance).**
 
 * Under "Other Design and Development Resources" heading, added new third bullet:
 
-`[Cognitive Accessibility Guidance](/WCAG2/supplemental/#cognitiveaccessibilityguidance)
-: Provides objecties and design patterns to improve accessibility for people with cognitive and learning disabilitie. Introduced in [About Supplemental Guidance](/WCAG2/supplemental/about/).`
+ `[Cognitive Accessibility Guidance](/WCAG2/supplemental/#cognitiveaccessibilityguidance)`<br>
+ `: Provides objecties and design patterns to improve accessibility for people with cognitive and learning disabilitie. Introduced in [About Supplemental Guidance](/WCAG2/supplemental/about/).`<br>
