@@ -11,11 +11,13 @@ permalink: /design-develop/
 github:
   repository: w3c/wai-design-develop-overview
   path: "content/index.md"
+  
+changelog: /fundamentals/changelog/
 
 feedbackmail: wai@w3.org
 class: tight-page
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 1 April 2022.</p>
+  <p><strong>Date:</strong> Updated 1 April 2022. CHANGELOG.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /design-develop/
