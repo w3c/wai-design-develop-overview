@@ -1,8 +1,8 @@
 ---
 # Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
-title: "Concevoir et développer - Vue d’ensemble"
-nav_title: "Vue d'ensemble"
+title: "Concevoir et développer – Vue d’ensemble"
+nav_title: "Vue d’ensemble"
 
 lang: fr
 last_updated: 2020-12-31
