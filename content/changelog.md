@@ -45,6 +45,9 @@ For others, **particularly significant or substantive changes are summarized aft
 * The other dates after `footer >` should match the English version.
 * From the GitHub pull request, after a couple of minutes, you can get a preview of your rendered page by selecting the "Details" link after "netlify/wai-.../deploy-preview — Deploy preview ready!". Then select your language at the top.
 
+## 19 May 2022
+* Under "Other Design and Development Resources" heading, second item, changed link from:<br>`[WAI-ARIA Authoring Practices](https://www.w3.org/TR/wai-aria-practices/)`<br>to:<br>`[WAI-ARIA Authoring Practices Guide (APG)](/ARIA/apg/)`
+
 ## 1 April 2022 Significant
 **Significant: Added link to [Cognitive Accessibility Guidance](/WCAG2/supplemental/#cognitiveaccessibilityguidance).**
 
