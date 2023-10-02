@@ -40,19 +40,19 @@ Guidance for writing, designing, and developing for accessibility.
 
 These tips introduce some basic considerations for making your website more accessible to people with disabilities. They provide links to additional guidance.
 
-[Writing for Web Accessibility](/tips/writing/) 
+[[Writing for Web Accessibility]](/tips/writing/) 
 : Tips for writing and presenting content.
 
-[Designing for Web Accessibility](/tips/designing/) 
+[[Designing for Web Accessibility]](/tips/designing/) 
 : Tips for user interface and visual design.
 
-[Developing for Web Accessibility](/tips/developing/) 
+[[Developing for Web Accessibility]](/tips/developing/) 
 : Tips for markup and coding.
 {:.paragraph-like}
 
 ## Media Resource for Audio and Video
 
-[Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/)
+[[Making Audio and Video Media Accessible]](/media/av/)
 : Helps you understand and create captions/subtitles, audio description of visual information, descriptive transcripts, and sign language for media. Includes guidance for creating new videos, and on media player accessibility. Introduces user experiences and benefits to organizations.
 {:.paragraph-like}
 
@@ -60,12 +60,12 @@ These tips introduce some basic considerations for making your website more acce
 
 The tutorials provide guidance on how to create components that meet Web Content Accessibility Guidelines (WCAG), that are more accessible to people with disabilities, and that provide a better user experience for everyone.
 
-* **[Page Structure Tutorial](https://www.w3.org/WAI/tutorials/page-structure/)**
-* **[Menus Tutorial](https://www.w3.org/WAI/tutorials/menus/)**
-* **[Images Tutorial](https://www.w3.org/WAI/tutorials/images/)**
-* **[Tables Tutorial](https://www.w3.org/WAI/tutorials/tables/)**
-* **[Forms Tutorial](https://www.w3.org/WAI/tutorials/forms/)**
-* **[Carousels Tutorial](https://www.w3.org/WAI/tutorials/carousels/)**
+* **[[Page Structure Tutorial](/tutorials/page-structure/)**
+* **[[Menus Tutorial]](/tutorials/menus/)**
+* **[[Images Tutorial]](/tutorials/images/)**
+* **[[Tables Tutorial]](/tutorials/tables/)**
+* **[[Forms Tutorial]](/WAI/tutorials/forms/)**
+* **[[Carousels Tutorial]](/WAI/tutorials/carousels/)**
 
 ## Other Design and Development Resources
 
@@ -78,6 +78,6 @@ The tutorials provide guidance on how to create components that meet Web Content
 [Cognitive Accessibility Guidance](/WCAG2/supplemental/#cognitiveaccessibilityguidance)
 : Provides objectives and design patterns to improve accessibility for people with cognitive and learning disabilities. Introduced in [About Supplemental Guidance](/WCAG2/supplemental/about/).
 
-[Developing Websites for Older People: How WCAG Applies](https://www.w3.org/WAI/older-users/developing/)
+[Developing Websites for Older People: How WCAG Applies](/WAI/older-users/developing/)
 : Lists specific WCAG success criteria and techniques that particularly improve accessibility and usability for older people.
 {:.paragraph-like}
