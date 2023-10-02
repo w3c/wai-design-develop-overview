@@ -60,12 +60,12 @@ These tips introduce some basic considerations for making your website more acce
 
 The tutorials provide guidance on how to create components that meet Web Content Accessibility Guidelines (WCAG), that are more accessible to people with disabilities, and that provide a better user experience for everyone.
 
-* **[[Page Structure Tutorial](/tutorials/page-structure/)**
+* **[[Page Structure Tutorial]](/tutorials/page-structure/)**
 * **[[Menus Tutorial]](/tutorials/menus/)**
 * **[[Images Tutorial]](/tutorials/images/)**
 * **[[Tables Tutorial]](/tutorials/tables/)**
-* **[[Forms Tutorial]](/WAI/tutorials/forms/)**
-* **[[Carousels Tutorial]](/WAI/tutorials/carousels/)**
+* **[[Forms Tutorial]](/tutorials/forms/)**
+* **[[Carousels Tutorial]](/tutorials/carousels/)**
 
 ## Other Design and Development Resources
 
