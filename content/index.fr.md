@@ -79,6 +79,6 @@ Les tutoriels donnent des conseils pour créer des composants répondant aux exi
 [Pratiques de création de WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/)
 : Fournit des approches, des conseils, et des exemples pour aider les développeurs d’applications Web à créer des widgets, une navigation, et des comportements accessibles en utilisant les rôles, les états, et les propriétés WAI-ARIA (<i>Accessible Rich Internet Applications</i>).
 
-[Développer des sites Web pour les personnes âgées : comment s’appliquent les WCAG](https://www.w3.org/WAI/older-users/developing/)
+[Développer des sites Web pour les personnes âgées : comment s’appliquent les WCAG](/older-users/developing/)
 : Liste les critères de réussite et les techniques spécifiques des WCAG qui visent à améliorer l’accessibilité et l’ergonomie pour les personnes âgées.
 {:.paragraph-like}

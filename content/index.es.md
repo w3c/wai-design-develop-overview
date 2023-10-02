@@ -85,6 +85,6 @@ Los tutoriales proporcionan orientación para crear componentes que cumplen con 
 [Prácticas para el autor de WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/)
 : Proporciona aproximaciones, consejos y ejemplos para ayudar a los desarrolladores de aplicaciones web a hacer widgets, navegación y comportamientos accesibles a través de los roles, estados y propiedades de WAI-ARIA (Accessible Rich Internet Applications).
 
-[Desarrollando sitios web para personas mayores: cómo se aplica WCAG](https://www.w3.org/WAI/older-users/developing/)
+[Desarrollando sitios web para personas mayores: cómo se aplica WCAG](/older-users/developing/)
 : Enumera casos de éxito y técnicas WCAG específicos que mejoran la accesibilidad y la usabilidad para las personas mayores particularmente.
 {:.paragraph-like}

@@ -78,6 +78,6 @@ The tutorials provide guidance on how to create components that meet Web Content
 [Cognitive Accessibility Guidance](/WCAG2/supplemental/#cognitiveaccessibilityguidance)
 : Provides objectives and design patterns to improve accessibility for people with cognitive and learning disabilities. Introduced in [About Supplemental Guidance](/WCAG2/supplemental/about/).
 
-[Developing Websites for Older People: How WCAG Applies](/WAI/older-users/developing/)
+[Developing Websites for Older People: How WCAG Applies](/older-users/developing/)
 : Lists specific WCAG success criteria and techniques that particularly improve accessibility and usability for older people.
 {:.paragraph-like}
