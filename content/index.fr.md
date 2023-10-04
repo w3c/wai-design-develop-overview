@@ -44,19 +44,19 @@ Conseils pour la rédaction, la conception et le développement en faveur de l'a
 
 Les conseils suivants introduisent les éléments essentiels à prendre en considération pour rendre votre site Web plus accessible aux personnes en situation de handicap. Ils fournissent des liens vers des ressources supplémentaires.
 
-[Écrire pour l’accessibilité Web](/tips/writing/)
+[[Écrire pour l’accessibilité Web]](/tips/writing/)
 : Conseils pour écrire et présenter du contenu.
 
-[Concevoir pour l’accessibilité Web](/tips/designing/)
+[[Concevoir pour l’accessibilité Web]](/tips/designing/)
 : Conseils pour l’interface utilisateur et la conception visuelle.
 
-[Développer pour l’accessibilité Web](/tips/developing/)
+[[Développer pour l’accessibilité Web]](/tips/developing/)
 : Conseils pour le balisage et le code.
 {:.paragraph-like}
 
 ## Ressource multimédia pour l’audio et la vidéo
 
-[Rendre le contenu multimédia audio et vidéo accessible](https://www.w3.org/WAI/media/av/)
+[[Rendre le contenu multimédia audio et vidéo accessible]](/media/av/)
 : Vous aide à comprendre et à créer les légendes et les sous-titres, les audiodescriptions des informations visuelles, les transcriptions descriptives et le langage des signes pour le contenu multimédia. Inclut des conseils pour créer de nouvelles vidéos et en savoir plus sur l’accessibilité des lecteurs multimédia. Présente des cas utilisateurs et des bénéfices pour les organisations.
 {:.paragraph-like}
 
@@ -64,12 +64,12 @@ Les conseils suivants introduisent les éléments essentiels à prendre en consi
 
 Les tutoriels donnent des conseils pour créer des composants répondant aux exigences des Règles pour l’accessibilité des contenus Web (WCAG), plus accessibles aux personnes en situation de handicap et offrant une meilleure expérience utilisateur pour tous.
 
-* **[Tutoriel : structure d’une page](https://www.w3.org/WAI/tutorials/page-structure/)**
-* **[Tutoriel : menus](https://www.w3.org/WAI/tutorials/menus/)**
-* **[Tutoriel : images](https://www.w3.org/WAI/tutorials/images/)**
-* **[Tutoriel : tableaux](https://www.w3.org/WAI/tutorials/tables/)**
-* **[Tutoriel : formulaires](https://www.w3.org/WAI/tutorials/forms/)**
-* **[Tutoriel : carrousels](https://www.w3.org/WAI/tutorials/carousels/)**
+* **[[Tutoriel : structure d’une page]](/tutorials/page-structure/)**
+* **[[Tutoriel : menus]](/tutorials/menus/)**
+* **[[Tutoriel : images]](/tutorials/images/)**
+* **[[Tutoriel : tableaux]](/tutorials/tables/)**
+* **[[Tutoriel : formulaires]](/tutorials/forms/)**
+* **[[Tutoriel : carrousels]](/tutorials/carousels/)**
 
 ## Autres ressources pour la conception et le développement
 
@@ -79,6 +79,6 @@ Les tutoriels donnent des conseils pour créer des composants répondant aux exi
 [Pratiques de création de WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/)
 : Fournit des approches, des conseils, et des exemples pour aider les développeurs d’applications Web à créer des widgets, une navigation, et des comportements accessibles en utilisant les rôles, les états, et les propriétés WAI-ARIA (<i>Accessible Rich Internet Applications</i>).
 
-[Développer des sites Web pour les personnes âgées : comment s’appliquent les WCAG](https://www.w3.org/WAI/older-users/developing/)
+[Développer des sites Web pour les personnes âgées : comment s’appliquent les WCAG](/older-users/developing/)
 : Liste les critères de réussite et les techniques spécifiques des WCAG qui visent à améliorer l’accessibilité et l’ergonomie pour les personnes âgées.
 {:.paragraph-like}
