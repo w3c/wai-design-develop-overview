@@ -3,7 +3,7 @@ title: "Concevoir et développer – Vue d’ensemble"
 nav_title: "Vue d’ensemble"
 
 lang: fr
-last_updated: 2020-12-31
+last_updated: 2023-11-29
 permalink: /design-develop/fr
 
 translators:
@@ -16,10 +16,12 @@ github:
   repository: w3c/wai-design-develop-overview
   path: "content/index.fr.md"
 
+changelog: /design-develop/changelog/
+
 feedbackmail: wai@w3.org
 class: tight-page
 footer: > # Text in footer in HTML
-  <p><strong>Date :</strong> Mise à jour : 20 septembre 2019.</p>
+  <p><strong>Date :</strong> Mise à jour : 19 mai 2022. CHANGELOG.</p>
   <p><strong>Rédactrice :</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Développé par le groupe de travail Éducation et Promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /design-develop/
@@ -71,11 +73,14 @@ Les tutoriels donnent des conseils pour créer des composants répondant aux exi
 
 ## Autres ressources pour la conception et le développement
 
-[Comment répondre aux exigences des WCAG (aide-mémoire)](https://www.w3.org/WAI/WCAG21/quickref/)
+[Comment répondre aux exigences des WCAG (aide-mémoire)](https://www.w3.org/WAI/WCAG22/quickref/)
 : Un aide-mémoire personnalisable des exigences (“critères de réussite”) et des techniques des Règles de l’accessibilité des contenus Web (WCAG).
 
-[Pratiques de création de WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/)
+[Guide des pratiques de création de WAI-ARIA](/ARIA/apg/)
 : Fournit des approches, des conseils, et des exemples pour aider les développeurs d’applications Web à créer des widgets, une navigation, et des comportements accessibles en utilisant les rôles, les états, et les propriétés WAI-ARIA (<i>Accessible Rich Internet Applications</i>).
+
+[Conseils pour l'accessibilité cognitive](/WCAG2/supplemental/#cognitiveaccessibilityguidance)
+: Présente des objectifs et des schémas de conception pour améliorer l'accessibilité pour les personnes avec des troubles cognitifs et d'apprentissage. Introduit dans [À propos des Conseils supplémentaires](/WCAG2/supplemental/about/).
 
 [Développer des sites Web pour les personnes âgées : comment s’appliquent les WCAG](/older-users/developing/)
 : Liste les critères de réussite et les techniques spécifiques des WCAG qui visent à améliorer l’accessibilité et l’ergonomie pour les personnes âgées.
