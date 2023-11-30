@@ -1,10 +1,12 @@
 ---
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
+
 title: "Introducción al diseño y al desarrollo"
 nav_title: "Introducción"
-
 lang: es
-last_updated: 2019-09-30
-permalink: /design-develop/es
+last_updated: 2019-09-30  # Put the date of this translation YYYY-MM-DD (with month in the middle)
+
 translators: 
 - name: "Carlos Muncharaz"
   link: "http://www.muncharaz.eu/"
@@ -13,13 +15,21 @@ github:
   repository: w3c/wai-design-develop-overview
   path: "content/index.es.md"
 
+permalink: /design-develop/es
+ref: /design-develop/ # Do not change this
+
 class: tight-page
 feedbackmail: wai@w3.org
-footer: > # Text in footer in HTML
+
+# In the footer below:
+# Do not change the dates
+# Do not translate CHANGELOG
+# Translate the other words, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
+footer: >
   <p><strong>Fecha:</strong> Actualizado el 20 de septiembre del 2019.</p>
   <p><strong>Editora:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Desarrollado con la colaboración del Grupo de Trabajo de Educación y Difusión (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
-ref: /design-develop/
 ---
 
 {::nomarkdown}

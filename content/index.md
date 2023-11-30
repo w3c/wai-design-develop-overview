@@ -1,24 +1,39 @@
 ---
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
+
 title: "Design and Develop Overview"
 nav_title: "Overview"
+lang: en  # Change "en" to the translated-language shortcode
+last_updated: 2022-05-19  # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
-lang: en
-last_updated: 2022-05-19
-permalink: /design-develop/
+# translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
+# - name: "Jan Doe"   # Replace Jan Doe with translator name
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
+# contributors:
+# - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
 
 github:
   repository: w3c/wai-design-develop-overview
-  path: "content/index.md"
-  
-changelog: /design-develop/changelog/
+  path: "content/index.md"  # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
 
+permalink: /design-develop/ # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
+ref: /design-develop/ # Do not change this
+  
+changelog: /design-develop/changelog/ # Do not change this
 feedbackmail: wai@w3.org
 class: tight-page
+
+# In the footer below:
+# Do not change the dates
+# Do not translate CHANGELOG
+# Translate the other words, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
 footer: > # Text in footer in HTML
   <p><strong>Date:</strong> Updated 19 May 2022. CHANGELOG.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
-ref: /design-develop/
 ---
 
 {::nomarkdown}
@@ -30,7 +45,6 @@ Guidance for writing, designing, and developing for accessibility.
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
-
 
 {% include toc.html %}
 
