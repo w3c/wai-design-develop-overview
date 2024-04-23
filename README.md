@@ -1,1 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/10373fa0-6638-4c9e-aaae-5fceccb7a554/deploy-status)](https://app.netlify.com/sites/wai-design-develop-overview/deploys)
+> [!IMPORTANT]
+> This repository has been archived 23 April 2024.
+>
+> [Design and Develop Overview](https://www.w3.org/WAI/design-develop/) is now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
